@@ -12,6 +12,9 @@ dajiahao
 dajiahao
 dajiahao
 dajiahao
+<<<<<<< HEAD
 dajiahao 
 dajiahao master test
-dajiahaio
+dajiaha1o
+dajiahaio hot fit test
+>>>>>>> hot-fix

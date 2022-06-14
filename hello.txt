@@ -12,9 +12,9 @@ dajiahao
 dajiahao
 dajiahao
 dajiahao
-<<<<<<< HEAD
 dajiahao 
 dajiahao master test
 dajiaha1o
 dajiahaio hot fit test
->>>>>>> hot-fix
+This is a test for github
+good luckey;
